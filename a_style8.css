@@ -1,0 +1,37 @@
+.forms{
+    border:0px solid black;
+    width:60%;
+    height:400px;
+}
+.selectb{
+    width:147px;
+    height:20px;
+    font-size:15px;
+    margin-left:15px;
+}
+.enter{
+    border:0px solid black;
+    width:700px;
+    height:30px;
+    border-radius: 10px;
+    background:rgb(235, 206, 195);
+    
+
+}
+.pin{
+    border:0px solid black;
+    border-radius:7px;
+    
+    height:25px;
+    background:rgb(235, 206, 195);
+
+}
+
+.subm{
+    width:100px;
+    height:40px;
+    margin-left:400px;
+    margin-bottom:40px;
+    background:orange;
+    border-radius:100px;
+}
